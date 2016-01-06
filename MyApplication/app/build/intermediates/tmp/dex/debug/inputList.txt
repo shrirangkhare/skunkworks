@@ -1,0 +1,4 @@
+/home/shirang/AndroidStudioProjects/MyApplication/app/build/intermediates/classes/debug
+/home/shirang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-495d4f1a7bf7c3462305468a76ad959002e05c84.jar
+/home/shirang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-c57a6773e2acd9bfe61be8642efc64ab4dd0a596.jar
+/home/shirang/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-e03492369cc7ddc57aa58beb9942c882c43847ea.jar
